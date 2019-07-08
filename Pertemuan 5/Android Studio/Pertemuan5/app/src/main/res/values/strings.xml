@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pertemuan 5</string>
+    <string name="Lbl1">Pertemuan 5 - Menambah Button</string>
+    <string name="Lbn1">OK</string>
+    <string name="Lbn2">OKH</string>
+    <string name="menu1">menu1</string>
+    <string name="menu3">menu3</string>
+    <string name="menu2">menu2</string>
+</resources>
