@@ -16,3 +16,10 @@ Digital Talent Scholarship | VSGA | Politeknik Negeri Banjarmasin | 2019
 ## Pertemuan 4
 - Membuat Mockup dengan Pencil
 
+## Pertemuan 5
+- Merancang Mobile Interface Mengunakan Android Studio
+
+## Pertemuan 6
+- Membuat Mockup Menggunakan Pencil
+- Menambahkan menu pada Project Pertemuan 5
+
