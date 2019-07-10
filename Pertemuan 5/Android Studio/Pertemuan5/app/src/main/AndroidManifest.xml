@@ -24,9 +24,20 @@
             </intent-filter>
         </activity>
 
-
-        <activity android:name=".Menu2" android:label="Latihan Menu2"/>
-        <activity android:name=".Menu3" android:label="Latihan Menu3"/>
+        <activity
+            android:name=".Menu2"
+            android:label="Latihan Menu2">
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Menu3"
+            android:label="Latihan Menu3">
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
 
     </application>
 

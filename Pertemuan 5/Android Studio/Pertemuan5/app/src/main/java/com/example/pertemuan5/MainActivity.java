@@ -17,13 +17,13 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public boolean onCreateOptionMenu(Menu menu){
+    public boolean onCreateOptionsMenu(Menu menu){
         MenuInflater inflater = getMenuInflater();
         inflater.inflate(R.menu.optionmenu,menu);
         return true;
     }
 
-    public boolean onOptionItemSelected(MenuItem item) {
+    public boolean onOptionsItemSelected(MenuItem item) {
         if (item.getItemId()==R.id.Menu1){
             startActivity(new Intent(this, Menu1.class));
         }else if (item.getItemId()==R.id.Menu2){
