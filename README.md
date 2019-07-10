@@ -23,3 +23,6 @@ Digital Talent Scholarship | VSGA | Politeknik Negeri Banjarmasin | 2019
 - Membuat Mockup Menggunakan Pencil
 - Menambahkan menu pada Project Pertemuan 5
 
+## Pertemuan 7
+- Platform operating system dan bahasa pemprograman di dalam perangkat lunak
+- Membuat halaman Input Nama dan Cetak
