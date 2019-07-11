@@ -26,3 +26,7 @@ Digital Talent Scholarship | VSGA | Politeknik Negeri Banjarmasin | 2019
 ## Pertemuan 7
 - Platform operating system dan bahasa pemprograman di dalam perangkat lunak
 - Membuat halaman Input Nama dan Cetak
+
+## Pertemuan 8
+- Membuat Project  Menampilkan nama dengan waktu 30 menit
+- Membuat Project kalkulator sederhana + menu Menentukan ganjil dan genap
