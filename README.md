@@ -18,6 +18,8 @@ Digital Talent Scholarship | VSGA | Politeknik Negeri Banjarmasin | 2019
 
 ## Pertemuan 5
 - Merancang Mobile Interface Mengunakan Android Studio
+- Menu 1 Hello world
+- Menu 2 App Puzzle
 
 ## Pertemuan 6
 - Membuat Mockup Menggunakan Pencil
@@ -30,3 +32,10 @@ Digital Talent Scholarship | VSGA | Politeknik Negeri Banjarmasin | 2019
 ## Pertemuan 8
 - Membuat Project  Menampilkan nama dengan waktu 30 menit
 - Membuat Project kalkulator sederhana + menu Menentukan ganjil dan genap
+
+## Pertemuan 9
+- Membuat project Penginputan Nim, Nama, Kampus
+- Latihan Membuat TextView
+
+# Author
+Muhammad Zaki Fuad ([email](mailto:muhammadzakifuadtkj@gmail.com))
