@@ -37,5 +37,8 @@ Digital Talent Scholarship | VSGA | Politeknik Negeri Banjarmasin | 2019
 - Membuat project Penginputan Nim, Nama, Kampus
 - Latihan Membuat TextView
 
+## Pertemuan 10
+- Membuat Project Penyimpanan pada Internal Storage dan External Storage
+
 # Author
 Muhammad Zaki Fuad ([email](mailto:muhammadzakifuadtkj@gmail.com))
