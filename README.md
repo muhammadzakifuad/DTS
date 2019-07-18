@@ -44,7 +44,7 @@ Digital Talent Scholarship | VSGA | Politeknik Negeri Banjarmasin | 2019
 - Membuat Project Sqlite di Internal Storage
 
 ## Pertemuan 12
-- Membuat Project Aplikasi Database dengan sqlite,
+- Membuat Project Aplikasi Database dengan sqlite
 
 # Author
 Muhammad Zaki Fuad ([email](mailto:muhammadzakifuadtkj@gmail.com))
