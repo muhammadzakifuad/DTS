@@ -46,5 +46,8 @@ Digital Talent Scholarship | VSGA | Politeknik Negeri Banjarmasin | 2019
 ## Pertemuan 12
 - Membuat Project Aplikasi Database dengan sqlite
 
+## Pertemuan 13
+- Membuat Project Aplikasi dengan menu dan input nim, nama
+
 # Author
 Muhammad Zaki Fuad ([email](mailto:muhammadzakifuadtkj@gmail.com))
