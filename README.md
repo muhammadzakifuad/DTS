@@ -45,9 +45,13 @@ Digital Talent Scholarship | VSGA | Politeknik Negeri Banjarmasin | 2019
 
 ## Pertemuan 12
 - Membuat Project Aplikasi Database dengan sqlite
+- Membuat Project Aplikasi API ke Database
 
 ## Pertemuan 13
 - Membuat Project Aplikasi dengan menu dan input nim, nama
+
+## Pertemuan 14
+- Teori Mobile Security
 
 # Author
 Muhammad Zaki Fuad ([email](mailto:muhammadzakifuadtkj@gmail.com))
