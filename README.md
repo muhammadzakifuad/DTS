@@ -54,6 +54,7 @@ Digital Talent Scholarship | VSGA | Politeknik Negeri Banjarmasin | 2019
 - Teori Mobile Security
 
 ## Pertemuan 15
+- Teori Mobile Sensor
 - Project Latihan Membuat Intent Login dan Option Menu
 
 # Author
