@@ -53,5 +53,8 @@ Digital Talent Scholarship | VSGA | Politeknik Negeri Banjarmasin | 2019
 ## Pertemuan 14
 - Teori Mobile Security
 
+## Pertemuan 15
+- Project Latihan Membuat Intent Login dan Option Menu
+
 # Author
 Muhammad Zaki Fuad ([email](mailto:muhammadzakifuadtkj@gmail.com))
