@@ -39,6 +39,7 @@ Digital Talent Scholarship | VSGA | Politeknik Negeri Banjarmasin | 2019
 
 ## Pertemuan 10
 - Membuat Project Penyimpanan pada Internal Storage dan External Storage
+- Tugas Proyek 1 (Catatan Harian)
 
 ## Pertemuan 11
 - Membuat Project Sqlite di Internal Storage
