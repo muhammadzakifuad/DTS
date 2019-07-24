@@ -59,5 +59,8 @@ Digital Talent Scholarship | VSGA | Politeknik Negeri Banjarmasin | 2019
 - Teori Mobile Sensor
 - Project Latihan Membuat Intent Login dan Option Menu
 
+## Pertemuan 16
+- Ujian Teori Berbasis Quiz
+
 # Author
 Muhammad Zaki Fuad ([email](mailto:muhammadzakifuadtkj@gmail.com))
