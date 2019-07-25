@@ -62,5 +62,8 @@ Digital Talent Scholarship | VSGA | Politeknik Negeri Banjarmasin | 2019
 ## Pertemuan 16
 - Ujian Teori Berbasis Quiz
 
+## Pertemuan 17
+- Ujian Praktik
+
 # Author
 Muhammad Zaki Fuad ([email](mailto:muhammadzakifuadtkj@gmail.com))
